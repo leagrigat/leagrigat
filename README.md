@@ -1,6 +1,3 @@
-### (^o^)/ I'm Lea, 👩🏻‍💻 junior web developer with a background in 🎯 product management and 💡 education
-
-
 # Hi 👋, I'm Lea<br>👩🏻‍💻 A junior web developer with a background in 🎯 product management and 💡 education
 🔭 I’m currently working on [FlickSync - Movie Night Organizer](https://github.com/leagrigat/flick-sync)<br><br>
 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:<br>
