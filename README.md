@@ -1,4 +1,4 @@
-## Hi 👋 I'm Lea, a junior web developer 👩🏻‍💻 with a background in 🎯 Product Management and 💡 Education
+## 👋 I'm Lea, a Junior Frontend Developer 👩🏻‍💻 with a background in 🎯 Product Management and 💡 Education
 * 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)<br><br>
 * 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:<br>
   * 🎦 Midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App<br>
