@@ -1,4 +1,5 @@
-## 👋 I'm Lea, a 👩🏻‍💻 Junior Frontend Developer with roots in 🎯 Product Management & 💡 Educational Science
+## 👋 I'm Lea, a 👩🏻‍💻 Junior Frontend Developer
+With roots in 🎯 Product Management & 💡 Educational Science
 * 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)
 * 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:
   * 🎦 Midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App
