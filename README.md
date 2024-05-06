@@ -2,8 +2,8 @@
 ## 👩🏻‍💻 A junior web developer with a background in 🎯 product management and 💡 education
 🔭 I’m currently working on [FlickSync - Movie Night Organizer](https://github.com/leagrigat/flick-sync)<br><br>
 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:<br>
-midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App<br>
-final: [AiDiA - The Lounge](aidia.vercel.app) | Github repo not published yet | A networking platform<br><br>
+  🎦 midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App<br>
+  🎓 final: [AiDiA - The Lounge](aidia.vercel.app) | Github repo not published yet | A networking platform<br><br>
 🌱 I’m currently working on enhancing my learning on TypeScript, Next.js and React.js.<br><br>
 🌍 I have a background in Educational science and product management with a strong focus on social entrepreneurship.<br><br>
 🎲 Pen and paper enthusiast<br><br>⚡ Loves nature despite all the bugs<br><br>
