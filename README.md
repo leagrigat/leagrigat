@@ -1,12 +1,12 @@
-## 👋 I'm Lea, a 👩🏻‍💻 Junior Frontend Developer, 🎯 Product Manager & 💡 Educational Scientist
-* 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)<br><br>
-* 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:<br>
-  * 🎦 Midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App<br>
-  * 🎓 Final: [AiDiA - The Lounge](aidia.vercel.app) | Github Repo not published yet | A networking platform<br><br>
-* 🌱 I’m currently working on enhancing my learning on TypeScript, Next.js and React.js.<br><br>
-* 🌍 I have a background in Educational Science and Product Management with a strong focus on Social Entrepreneurship.<br><br>
-* 🎲 Pen and paper enthusiast<br><br>
-* ⚡ Loves nature despite all the bugs<br><br>
+## 👋 I'm Lea, a 👩🏻‍💻 Junior Frontend Developer with roots in 🎯 Product Management & 💡 Educational Science
+* 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)
+* 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:
+  * 🎦 Midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App
+  * 🎓 Final: [AiDiA - The Lounge](aidia.vercel.app) | Github Repo not published yet | A networking platform
+* 🌱 I’m currently working on enhancing my learning on TypeScript, Next.js and React.js.
+* 🌍 I have a background in Educational Science and Product Management with a strong focus on Social Entrepreneurship.
+* 🎲 Pen and paper enthusiast
+* ⚡ Loves nature despite all the bugs
 * 🔗 Let's build something impactful together! [📬](mailto:leagrigat@gmail.com)
 
 
