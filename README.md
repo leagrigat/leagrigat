@@ -1,7 +1,7 @@
 ## 👋 I'm Lea, a 👩🏻‍💻 Frontend Developer
 With roots in 🎯 Product Management & 💡 Educational Science
 * 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)
-* 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:
+* 🎓 I graduated from Code Camp at [Devhaus](https://devhausleipzig.de/de) with two full-stack projects:
   * 🎦 Midterm: [Cinescape](cinescape.vercel.app) | [Github Repo](https://github.com/leagrigat/camp11-midterm) | Cinema Booking Web App
   * 🎓 Final: [AiDiA - The Lounge](aidia.vercel.app) | Github Repo not published yet | A networking platform
 * 🌱 I’m currently working on enhancing my learning on TypeScript, Next.js and React.js.
