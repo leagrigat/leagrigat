@@ -1,4 +1,4 @@
-## 👋 I'm Lea, a 👩🏻‍💻 Junior Frontend Developer
+## 👋 I'm Lea, a 👩🏻‍💻 Frontend Developer
 With roots in 🎯 Product Management & 💡 Educational Science
 * 🔭 I’m currently working on [FlickSync - Movie Night Organizer.](https://github.com/leagrigat/flick-sync)
 * 🎓 I graduated from Code Camp at Devhaus with two full-stack projects:
